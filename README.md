@@ -31,5 +31,5 @@ After training, the model achieved the following ROUGE F1-scores on the validati
 ### Future Improvements
 
 - Use larger and cleaner datasets.
-- Switch to Transformer-based architectures.
+- Switch to modern Transformer architecture.
 - Fine-tune hyperparameters if more computational resources become available.
